@@ -1,1 +1,5 @@
-# Note_DataSciBookDrillPython
+# データサイエンティスト養成読本 演習ノート
+
+Jupyter Notebookのノートにまとめた、演習の自習ノート。
+
+※個人の演習ノートです。
